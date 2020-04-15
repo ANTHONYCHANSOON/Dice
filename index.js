@@ -49,8 +49,7 @@
 //     }
 // }
 
-changeDice(randomNumber1, randomNumber2);
-
+//changeDice(randomNumber1, randomNumber2);
 
 var randomNumber1 = Math.floor(Math.random() * 6) + 1; //1-6
 
